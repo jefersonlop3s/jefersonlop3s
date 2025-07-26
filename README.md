@@ -1,43 +1,8 @@
 # My GitHub profile! 👋
 
-
 ## 🚀 Sobre mim
 
-Seja bem-vindo! 
-
-Trabalho como Analista de Sistemas com foco em DevSecOps/DevOps e neste espaço pretendo compartilhar algumas ideias e alguns projetos pessoais do qual acredito poder fazer sentido mais cedo ou mais tarde... bora! 
-
-<!--
-**jefersonlop3s/jefersonlop3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## Um pouco mais sobre mim
-
-🧠 Estou eternamente aprendendo Java e Python.. na real, estou aprendendo desde que me conheço e até hoje não vejo fim neste tal de aprendizado 
-
-🔭 Procuro colaborar e ajudar amigos e colegas a terem um norte na área de Tecnologia, algo que me fez muita falta no passado, principalmente quando olho para minha iniciação ...
-
-💬 Me pergunte sobre Linux, kubernetes, backend e frontend... se responderei? Isto é outra história ...
-
-📫 Como entrar em contato comigo? Bom... tem o perfil do LinkedIn logo abaixo, como também do Medium... mas, na pior das hipóteses, abra uma issue aqui no GitHub.. certeza que tem muita coisa a se rever!
-
-😄 Pronomes: ... Jeff, Jeferson
-
-⚡️ Fatos engraçados? A vida!
-
-## 🔗 Links
+### 🔗 Links
 
 <div style="display: inline_block"><br>
 
