@@ -1,8 +1,8 @@
-# My GitHub profile! 👋
+# My GitHub profile!
 
-## 🚀 Sobre mim
+## Sobre mim
 
-### 🔗 Links
+### Links
 
 <div style="display: inline_block"><br>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-## Esse "score..." 🤔
+## Esse "score..."
 [![jefersonlop3s](https://github-readme-stats.vercel.app/api?username=jefersonlop3s&show_icons=true&theme=tokyonight)](https://github.com/jefersonlop3s)
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonlop3s&theme=blue-green)](https://github.com/jefersonlop3s)
