@@ -1,4 +1,4 @@
-# Olá, eu sou o Jeferson Mendes! 👋
+# Olá, eu sou o Jeferson Lopes! 👋
 
 ### Software Engineer II | DevOps & Automation Specialist
 **Transformando processos manuais em fluxos contínuos e escaláveis.**
