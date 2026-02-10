@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre Mim
-- 🎯 **Foco profissional atual:** Integração e automações via REST API entre Jira, GitHub e ServiceNow e Habilitação de esteiras para Change Management com DevOps Change Velocity.
+- 🎯 **Foco profissional atual:** Integração via API entre Jira, GitHub e ServiceNow e Habilitação de esteiras para Change Management com DevOps Change Velocity.
 - 🎓 **Acadêmico:** Pós-graduando em **Engenharia de Software** e **Java**.
 - 🛠️ **Ecossistema:** Heavy user de **Arch Linux (KDE)** e **Obsidian** para gestão de conhecimento (PKM).
 - 🎸 **Hobbies:** Explorando timbres de Blues com minha Cort CR300.
@@ -38,20 +38,22 @@
 
 ---
 
-## ✍️ Últimos Artigos no Medium
-[![Medium](https://github-readme-medium-card.vercel.app/getCard?username=jefersonlopes.br&theme=tokyonight)](https://medium.com/@jefersonlopes.br)
+## ✍️ Artigos e Conteúdo
+*Acesse meus artigos técnicos no Medium:*
+
+[![Medium](https://img.shields.io/badge/Ler_Artigos_no_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jefersonlopesbr)
 
 ---
 
-## 📊 Estatísticas de Contribuição
+## 📊 Atividade no GitHub
+> **Nota:** A maior parte das minhas contribuições (+1.000 commits/ano) ocorre em repositórios privados corporativos e não são refletidas publicamente neste gráfico.
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonlop3s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonlop3s&layout=compact&langs_count=7&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersonlop3s&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
 ## 🌐 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefersonlops/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jefersonlopes.br)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jefersonlopesbr)
