@@ -1,45 +1,57 @@
-# My GitHub profile!
+# Olá, eu sou o Jeferson Mendes! 👋
 
-## Sobre mim
+### Software Engineer II | DevOps & Automation Specialist
+**Transformando processos manuais em fluxos contínuos e escaláveis.**
 
-### Links
+---
 
-<div style="display: inline_block"><br>
+## 🚀 Sobre Mim
+- 🎯 **Foco profissional atual:** Integração e automações via REST API entre Jira, GitHub e ServiceNow e Habilitação de esteiras para Change Management com DevOps Change Velocity.
+- 🎓 **Acadêmico:** Pós-graduando em **Engenharia de Software** e **Java**.
+- 🛠️ **Ecossistema:** Heavy user de **Arch Linux (KDE)** e **Obsidian** para gestão de conhecimento (PKM).
+- 🎸 **Hobbies:** Explorando timbres de Blues com minha Cort CR300.
 
+---
+
+## 📜 Certificações
+*Clique no selo para validar a credencial:*
+
+[![GitHub](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/738a673f-ae55-4f26-990c-d6a2eb079890/public_url)
+[![Azure](https://img.shields.io/badge/Azure_Fundamentals_AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/pt-br/users/jefersonlopes-6402/credentials/7625ca5b16c92d28)
+[![Security](https://img.shields.io/badge/Security_Fundamentals_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/jefersonlopes-6402/credentials/5309237e0ef0e400)
+
+---
+
+## 🛠️ Stack & Tecnologias
+
+### DevOps & Governança
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=ServiceNow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Linguagens & Scripting
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## ✍️ Últimos Artigos no Medium
+[![Medium](https://github-readme-medium-card.vercel.app/getCard?username=jefersonlopes.br&theme=tokyonight)](https://medium.com/@jefersonlopes.br)
+
+---
+
+## 📊 Estatísticas de Contribuição
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefersonlop3s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonlop3s&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefersonlops/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jefersonlopes.br)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jefersonlopesbr)
-
-</div>
-
-## Esse "score..."
-[![jefersonlop3s](https://github-readme-stats.vercel.app/api?username=jefersonlop3s&show_icons=true&theme=tokyonight)](https://github.com/jefersonlop3s)
-
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonlop3s&theme=blue-green)](https://github.com/jefersonlop3s)
-
-## Tecnologias/Stack...
-<div style="display: inline_block"><br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img align="center" alt="sonarlint" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" />
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="safari" src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" />
-  <img align="center" alt="firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
-</div>
-
-## 🛠 Habilidades
-Linux, Shell Scripts, Yaml, Javascript, HTML, CSS, K8s, Docker, Workflows...
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jefersonlopesbr)
