@@ -1,19 +1,19 @@
-# Olá! Jeferson Lopes aqui! 👋
+# Olá! Jeferson Lopes aqui! 
 
 ### Software Engineer II | DevOps & Automation Specialist
 **Transformando processos manuais em fluxos contínuos e escaláveis.**
 
 ---
 
-## 🚀 Sobre Mim
-- 🎯 **Foco profissional atual:** Integração via API entre Jira, GitHub e ServiceNow e Habilitação de esteiras para Change Management com DevOps Change Velocity.
-- 🎓 **Acadêmico:** Pós-graduando em **Engenharia de Software** e **Java**.
-- 🛠️ **Ecossistema:** Heavy user de **Arch Linux (KDE)** e **Obsidian** para gestão de conhecimento (PKM).
-- 🎸 **Hobbies:** Explorando timbres de Blues com minha Cort CR300.
+##  Sobre Mim
+-  **Foco profissional atual:** Integração via API entre Jira, GitHub e ServiceNow e Habilitação de esteiras para Change Management com DevOps Change Velocity.
+-  **Acadêmico:** Pós-graduando em **Engenharia de Software** e **Java**.
+-  **Ecossistema:** Heavy user de **Arch Linux (KDE)** e **Obsidian** para gestão de conhecimento (PKM).
+-  **Hobbies:** Explorando timbres de Blues com minha Cort CR300.
 
 ---
 
-## 📜 Certificações
+##  Certificações
 *Clique no selo para validar a credencial:*
 
 [![GitHub](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/738a673f-ae55-4f26-990c-d6a2eb079890/public_url)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Stack & Tecnologias
+##  Stack & Tecnologias
 
 ### DevOps & Governança
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -38,14 +38,14 @@
 
 ---
 
-## ✍️ Artigos e Conteúdo
+##  Artigos e Conteúdo
 *Acesse meus artigos técnicos no Medium:*
 
 [![Medium](https://img.shields.io/badge/Ler_Artigos_no_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jefersonlopesbr)
 
 ---
 
-## 📊 Atividade no GitHub
+##  Atividade no GitHub
 > **Nota:** A maior parte das minhas contribuições (+1.000 commits/ano) ocorre em repositórios privados corporativos e não são refletidas publicamente neste gráfico.
 
 <div align="center">
